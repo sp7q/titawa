@@ -1,0 +1,12 @@
+---
+title: "QRV"
+permalink: /obecnosc/
+layout: single
+type: pages
+date: 2016-11-22
+header:
+  image: /images/banner.jpg
+
+---
+
+<iframe src="https://rbn.telegraphy.de/activity/rank#SP" width="700" height="3000" scrolling="no"></iframe>

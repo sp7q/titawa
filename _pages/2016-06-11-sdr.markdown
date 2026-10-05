@@ -1,0 +1,19 @@
+---
+title: "SDR"
+permalink: /sdr/
+layout: single
+type: pages
+date: 2016-06-11
+header:
+  image: /images/banner.jpg
+
+---
+
+![webSDR](/images/webSDR-300x230.gif)Technika SDR postępuje cały czas do przodu. Dziś nawet nie posiadając odbiornika KF możesz cieszyć się odbiorem fal krótkich. Jesteś w podróży lub poza domem, a chcesz posłuchać czy koledzy trenują na częstotliwości - nic prostszego. Kliknij linki poniżej by w mig znaleźć się na odpowiedniej QRG.
+
+ 
+
+ 
+
+# University Twente    [3,565 HMz](http://websdr.ewi.utwente.nl:8901/?tune=3565cw){:target="_blank"}
+

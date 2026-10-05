@@ -1,0 +1,14 @@
+---
+title: "Ham Alert"
+date: 2019-01-17
+categories: 
+  - "programy"
+---
+
+![](/images/hamalert2.png)
+
+Każdy z nas poluje na DX, SOTA, czy po prostu chce sprawnie odnaleźć kolegę na paśmie. Jest d otego świetne narzędzie, które ułatwi nam życie.
+
+Korzysta ono z RBM, DX Cluster, SOTAwatch oraz PSKreporter. Powiadomienia ze wszystkich tych miejsc możemy sobie filtrować i generować powiadomienia. Dostępnych jest kilka kanałów : powiadomienia PUSH w aplikacji na telefonie dostępnej dla [Androida](https://play.google.com/store/apps/details?id=org.hamalert.app) jak i [iOS](https://itunes.apple.com/us/app/hamalert/id1200759798?mt=8) , powiadomienia na pocztę e-mail, powiadomienia SMS (około 5gr sa SMS-a) a także API umożliwiające zagnieździć rozwiązanie na naszej stronie WWW. To oczywiście nie koniec możliwości, narzędzie jest bardzo elastyczne, każde zdarzenie może być filtrowane na wiele sposobów, w zależności czego szukamy, podmiot DXCC, znak, kontynent etc. a każde z nich może być kierowane w oddzielny kanał informacyjny. W końcu możemy po prostu spradzić czy jsteśmy słyszani i czy jest otwarcie w danym paśmie bez odwiedzania strony reversebeacon.net. Ja osobiście uzywam aplikacji do powiadomień czy koledzy zgromadzeni wokół titawy są aktywni na paśmie. Nie zawsze mam czas na załączenie radiostacji i nasłuchiwaniu, tak jak nie zawsze mam włączony komputer i odpaloną stronę titawa.pl gdzie pojawia się info o naszej aktywności. Tu po prostu dostaję szybkie info na telefon i jeśli tylko jest taka możliwość mogę włączyć się do konwersacji lub odpowiedzieć na CQ. Super sprawa dla zabieganych jak ja i nie tylko.
+
+![](/images/hamalert-170x300.png)

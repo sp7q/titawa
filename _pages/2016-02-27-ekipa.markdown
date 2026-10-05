@@ -1,0 +1,44 @@
+---
+title: "Ekipa"
+layout: single
+permalink: /ekipa/
+layout: single
+type: pages
+date: 2016-02-27
+header:
+  image: /images/banner.jpg
+
+---
+
+* * *
+
+![SP7VV](/images/sp7vvk-150x150.jpg)
+[Maciek SP7VV](http://qrz.com/db/SP7VV){:target="_blank"}
+
+Maciek to nie tylko świetny telegrafista, także super organizator.
+
+* * *
+
+![SQ8LUV](/images/sq8luv.jpg)
+
+[Krzysiek SQ8LUV](http://qrz.com/db/SQ8LUV){:target="_blank"}
+
+Muzyk, a przede wszystkim wytrawny telegrafista. Ma nieskończoną cierpliwość dla początkujących adeptów jak i nie straszne mu QRQ.
+
+* * *
+
+![sq7ovv](/images/sq7ovv-150x150.jpg)
+
+[Kuba SQ7OVV](http://qrz.com/db/sq7ovv){:target="_blank"}
+
+Znany SOTO-wiec i fan małych mocy.
+
+* * *
+
+![SP7Q](/images/sp7q-150x150.jpg)
+
+[Tomek SP7Q](http://qrz.com/db/sp7q){:target="_blank"}
+
+"CW,DIY,RC i szybowce :) "
+
+* * *

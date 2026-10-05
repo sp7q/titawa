@@ -1,0 +1,12 @@
+---
+title: "Cricket"
+date: 2017-05-04
+categories: 
+  - "bez-kategorii"
+---
+
+![cricket3](/images/cricket3-300x169.jpg)Proste konstrukcje chyba nigdy się nie znudzą. Trudno powiedzieć dokładnie z jakiego powodu. Może po prostu ponieważ są proste, lub dlatego że mają swe początki w korzeniach naszego hobby. Na co dzień mamy na swoich biurkach wysublimowane TRX-y przepełnione nowymi technologiami po brzegi, DSP stało się już standardem, a salony z wielkim hukiem wita direct sampling. Od czasu do czasu warto jednak sięgnąć po lutownicę i projekt jak ten. Cricket to taka lepsza wersja dość popularnej konstrukcji jaką jest PIXIE. Zaprojektowany przez David-a ![cricket8w0eb](/images/cricket8w0eb-300x200.jpg)Cripe-a [NM0S](http://www.qrz.com/db/nm0s) i wypuszczony przez [Four State QRP Group.](http://www.4sqrp.com) Konstrukcja jest ulepszona, dzięki zastosowaniu mosfetów uzyskano lepszą czułość, kluczowanie oraz mamy do dyspozycji generator podsłuchu. Co ciekawe i na co należy zwrócić uwagę w kicie nie nawiniemy ani jednej cewki co jest duża zaletą ze względu na to iż młodzi konstruktorzy boją się cewek jak ognia (choć nie powinni :)) 0.5W mocy wystarczy by zaliczyć nie jedną łączność przy podniesionych warunkach w paśmie 80m. Jak zwykle ubolewam nad tym samym. Cena dla radioamatorów w SP jest trochę powalająca. 43$ to jakieś 170zł, ale miejmy nadzieję że w końcu i u nas zaczną rodzić się takie pomysły i po Włodku SP5DDJ ktoś w końcu wypełni rynkową lukę.
+
+ 
+
+![cricketshematic\_3-31-2017 (1)](/images/cricketshematic_3-31-2017-1-1024x773.png)

@@ -1,0 +1,12 @@
+---
+layout: single
+author_profile: true
+title: "O stronie"
+date: 2016-02-27
+permalink: /ostronie/
+header:
+  image: /images/banner.jpg
+
+---
+
+![5934791471\_785e76f91e\_b](/images/5934791471_785e76f91e_b-300x200.jpg)Wszystko zaczęło się od forum SP7PKI, gdzie skrystalizowała się grupa fanów telegrafii. Miłośnicy alfabetu Morse'a aktywni na tym forum postanowili wspierać chętnych, którzy chcieliby rozpocząć swoją przygodę z CW i doskonalić umiejętności. Niestety nie sprzyjała im formuła forum, w którym treść dość szybko się rozmywa, pojawiają się tak zwane "wycieczki osobiste", a do sedna ciężko dotrzeć. Entuzjaści utworzyli zatem grupę, która powołała do życia tę właśnie stronę. Chcemy, by był to prawdziwy almanach o telegrafii, kompletny przewodnik po świecie kresek i kropek, dłuższych i krótszych dźwięków. Naszym celem jest także podręcznik nauki, który pomoże początkującym nabyć tę umiejętność. W odróżnieniu od trolli i innych bytów aktywnych tylko na forum, my jesteśmy krótkofalowcami, istniejemy także poza Internetem. Można nas znaleźć na [3,565MHz](http://websdr.pzk.pl:8901/?tune=3564.25cw) oraz [7,022MHz](http://websdr.cz:8901/?tune=7021.25cw) +/- QRM Można nas posłuchać za pomocą internetowego odbiornika WebSDR. Tutaj spotkasz operatora, chętnego do łączności, który dostosuje styl nadawania do Twoich umiejętności. Nieważne czy jesteś początkujący, czy nadajesz 50 grup na minutę. Zapraszamy!

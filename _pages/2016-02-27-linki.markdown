@@ -1,0 +1,38 @@
+---
+title: "Linki"
+permalink: /linki/
+layout: single
+type: pages
+date: 2016-02-27
+header:
+  image: /images/banner.jpg
+
+---
+
+## Strony:
+
+1. [Stona Łukasza Komsty SP8QED](http://www.komsta.net/telegrafia)
+2. [Kompletne narzędzie do nauki telegrafii lcwo.net](http://lcwo.net)
+3. [Nie masz pomysłu jak zaprezentować nasze hobby oto kopalnia wiedzy RADIOREAKTYWACJA](http://reaktywacja.org.pl/)
+4. [Polski Klub Radiotelegrafistów](http://www.qtc.suchacz.eu/viewpage.php?page_id=30)
+5. [Kolekcja kluczy G3YUH](http://g3yuh.com/keycollection/keycollection2.html)
+
+## Książki:
+
+1. [The Art and Skill of Radio-Telegraphy wersja angielska](http://www.tasrt.ca/TASRTVersions/TASRT.pdf)
+2. [The Art and Skill of Radio-Telegraphy wersja polska](https://www.qsl.net/sp9hzx/CW/CW%20sztuka%20radiotelegrafii.pdf)
+3. [Podręcznik nauki telegrafii Łukasza Komsty wraz z nagraniami](https://www.komsta.net/cw/)
+4. [The Road to CW - EN](https://www.ke6mt.us/wp-content/uploads/2017/07/Road_to_CW_de_W4ALF.pdf)
+5. [ZEN AND THE ART OF RADIOTELEGRAPHY](https://www.qsl.net/kcarcs/contrib/ZenAndTheArtOfRadiotelegraphy.pdf)
+6. [The CW way of life](https://www.amazon.com/CW-Way-Life-Learning-Digital-ebook/dp/B0BYY76W8J/ref=sr_1_4?dib=eyJ2IjoiMSJ9.V9KUPVdYMaULqSUqqKLCYjpPV-I7TPs7EXo972Ze90XOYTD3uk0S4NX0vVrWI2pH_ZF03suRauhgZ6HqtAWEOSpwhHX-PktPHsyeb1kwLvdy5NZhcYu5rYJCjt2_lJo7FS4TDLwQGuMIYoDNBkSWaRpz7Jb08KuSe4EXCGPUK-O7U6FsH5ABaqj7Mu36eQaz_IRcvBYCTbVExwP6lKt69mEo4Bqjqk-YW0KY0yW2_sw.5adUvePRsI3baSMdFRGFZFNFMKrqd2XRb88YJ4KY9G4&dib_tag=se&keywords=Morse+Code&qid=1748589050&s=books&sr=1-4)
+
+## Programy:
+
+1. [Morse trainer G4FON](http://www.g4fon.net/CW%20Trainer.htm)
+2. [Just Learn Morse](http://www.justlearnmorsecode.com/)
+3. [QRQ](https://fkurz.net/ham/qrq.html)
+4. [Morse Runner](http://www.dxatlas.com/morserunner/)
+5. [Pileup Runner](http://www.dxatlas.com/PileupRunner/)
+6. [Morse Machine - Android](https://play.google.com/store/apps/details?id=com.iu4apc.morsemachine)
+7. [Morse Machine - PC](http://c2.com/morse/)
+8. [Morse Trainer - Android](https://play.google.com/store/apps/details?id=com.wolphi.morsetrainer)
