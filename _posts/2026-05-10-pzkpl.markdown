@@ -1,0 +1,13 @@
+---
+title: "pzk.pl wylaczone"
+date: 2026-10-05
+categories:
+  - "info"
+---
+
+
+Niesttey wygląda na to że hosting pzk.pl został całkowicie wyłączony.
+Brak aktualizacji zapewne problemy z wiksza ilosca stron i całość została wyłaczona.
+Chwilowo materiały do nauki są niedostępne, ale postaram się je wrzucic, choćby częściwo tu na GH.
+
+
